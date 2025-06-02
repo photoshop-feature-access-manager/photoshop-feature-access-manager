@@ -1,0 +1,1 @@
+# photoshop-feature-access-manager
